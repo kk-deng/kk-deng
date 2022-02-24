@@ -43,7 +43,7 @@ me.say_hi()
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kk-deng&langs_count=8&show_icons=true&theme=gruvbox&locale=en&layout=compact&hide=jupyter%20notebook,html" alt="kk-deng" />
 
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kk-deng&show_icons=true&theme=gruvbox&locale=en" alt="kk-deng" /></p>
+ &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kk-deng&show_icons=true&theme=gruvbox&locale=en" alt="kk-deng" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kk-deng&theme=dark" alt="kk-deng" /></p>
