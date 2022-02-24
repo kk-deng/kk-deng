@@ -16,6 +16,7 @@
 
 - 📫 Reach me at **k4tang@gmail.com**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&duration=4000&lines=Introducing+myself+in+Python...)](https://git.io/typing-svg)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
